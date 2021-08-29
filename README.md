@@ -1,2 +1,1 @@
-# devtuneblog
-DevTune Blog
+# DevTune Blog Repository
